@@ -77,9 +77,6 @@ class App extends Component {
             handleOnKeypress={this.handleKeyPress}
           />
         </div>
-        {/* <button onClick={this.openChat} className={cls.button}>
-          Start Chatting
-        </button> */}
         <FontAwesomeIcon
           icon={faComments}
           size="6x"
